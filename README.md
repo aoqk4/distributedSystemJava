@@ -22,6 +22,11 @@
 
 1. Implement Selection Leader Algorithm and test Zookeeper
 
+2. Make package
+   ```
+       mvn clean package
+   ```
+
 ## Day 3 Goal
 
 1. Wathers and Triggers?
